@@ -7,7 +7,7 @@
 	
 ## Design Patterns  
 	- Object-Oriented Programming  
-	    - Creational  
+		- Creational  
 		- Behavioral  
 		- Structural  
 	- Concurrency  
