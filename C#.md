@@ -1,5 +1,4 @@
-# TO REMIND
-
+## TO REMIND
 - Delegates  
 - Events  
 - sealed keyword  
@@ -13,7 +12,7 @@
 - Application Domains and Assemblies  
 
 
-# TO LEARN
+## TO LEARN
 - Xamarin  
 - ASP.NET  
 - CIL  
@@ -21,7 +20,7 @@
 - Windows Forms  
 
 
-# ACRONYMS
+## ACRONYMS
 - IIL (Internet Information Services)  
 - MDAC (Microsoft Data Access Components)  
 - IL (Intermediate Language)  
@@ -33,9 +32,9 @@
 - DLL (Dynamic-Link Library)  
 - BLOB (Binary Large Object)  
 - MEF (Managed Extensibility Framework)  
-- ARM (Advances RISC Machine)  
-- RISC (Reduced Instructions Set Machine)  
-- CISC (Complex Instructions Set Machine)  
+- ARM (Advanced RISC Machines)  
+- [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (Reduced Instruction Set Computer)  
+- [CISC](https://en.wikipedia.org/wiki/Complex_instruction_set_computer) (Complex Instruction Set Computer)  
 - WCF (Windows Communication Foundation) - creating service-oriented applications  
 - WPF (Windows Presentation Foundation) - integrates UI, 2D and 3D graphics, multimedia, documents and speech generation/recognition  
 - WWF (Windows Workflow Foundation)  
